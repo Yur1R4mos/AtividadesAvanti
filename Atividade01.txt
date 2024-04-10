@@ -1,5 +1,6 @@
 Respostas
-1. Machine learning é uma subarea da inteligencia artificial, onde são estudados e criados algoritmos que são capazes de aprender e tomar decisões sozinho, sendo com um treinador ou com seus erros ou a partir de feedbacks sobre as escolhas tomadas por ele, onde ele analisa os dados obtidos e a partir deles toma decisões melhores para solucionar um determinado problema,com isso existem os aprendizados,supervisionado, não supervisionados e por reforço. 
+1. Machine learning é uma subarea da inteligencia artificial, onde são estudados e criados algoritmos que são capazes de aprender e tomar decisões 
+sozinho, sendo com um treinador ou com seus erros ou a partir de feedbacks sobre as escolhas tomadas por ele, onde ele analisa os dados obtidos e a partir deles toma decisões melhores para solucionar um determinado problema,com isso existem os aprendizados,supervisionado, não supervisionados e por reforço. 
 
 2. Conjunto de treinamento: São dados usados para treinar o modelo;
 Conjunto de validação: São dados usados para avaliar a performance do modelo e dos parametros;

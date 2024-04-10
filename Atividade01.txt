@@ -12,6 +12,9 @@ Conjunto de teste:
 ao acaso(MCAR), dados faltantes ao acaso(MAR) e dados faltantes não ao acaso(MNAR), sendo algums tecnicas a de remoção de dados faltantes,
 imputação pela média ou mediana, imputação da categoria mais frequente, imputação de valor arbitrário e indicador de valor ausente.
 
-4. A matriz de confusão é uma matriz 2x2 onde sua diagonal principal mostra os acertos do modelo e os demais valores são os erros cometidos, os valores mostrados podem ser a quantidade de verdadeiros positivos, verdadeiros negativos, falsos positivos e falsos negativos, ela mede a precisão através de métricas como a acuracia sendo a mais simples, valor preditivo negativo, precisão, recall, f1-score e área sob a curva ROC.
+4. A matriz de confusão é uma matriz 2x2 onde sua diagonal principal mostra os acertos do modelo e os demais valores são os erros cometidos,
+os valores mostrados podem ser a quantidade de verdadeiros positivos, verdadeiros negativos, falsos positivos e falsos negativos,
+ela mede a precisão através de métricas como a acuracia sendo a mais simples, valor preditivo negativo, precisão, recall,
+f1-score e área sob a curva ROC.
 
 5. Eu acho interresante a aplicação de machine learning em todas as áreas citadas,mas a que mais me chama atenção é na área da saúde.

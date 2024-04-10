@@ -6,7 +6,7 @@ não supervisionados e por reforço.
 
 2. Conjunto de treinamento: São dados usados para treinar o modelo;
 Conjunto de validação: São dados usados para avaliar a performance do modelo e dos parametros;
-Conjunto de teste: 
+Conjunto de teste: usadao para confirmar que o modelo funciona
 
 3. Dependendo do tipo de valor faltante eu recorreria as tecnicas existentes para contornar cada um dos tipos como os dados faltantes completamente
 ao acaso(MCAR), dados faltantes ao acaso(MAR) e dados faltantes não ao acaso(MNAR), sendo algums tecnicas a de remoção de dados faltantes,
